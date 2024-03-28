@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.1](https://github.com/kurtosis-tech/ethereum-package/compare/2.1.0...2.1.1) (2024-03-28)
+
+
+### Bug Fixes
+
+* blobber incorrect url ([#528](https://github.com/kurtosis-tech/ethereum-package/issues/528)) ([6f84e3d](https://github.com/kurtosis-tech/ethereum-package/commit/6f84e3d5ec5fd7c02016530b3b64c79114d5891e))
+
 ## [2.1.0](https://github.com/kurtosis-tech/ethereum-package/compare/2.0.0...2.1.0) (2024-03-28)
 
 
